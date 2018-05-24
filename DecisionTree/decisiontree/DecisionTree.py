@@ -1,3 +1,5 @@
+#运用Graphviz生成pdf时先要 cd 到文件所在目录
+
 from sklearn.datasets import load_iris
 from sklearn import tree
 import sys
